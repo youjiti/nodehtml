@@ -9,13 +9,7 @@ http.createServer(function(req, res){
   +'<body>'
   +	`
     zsxrdctfvygbuinmo,.
-    zsxdcfvgbhjmk,l;.'
-    zsxdcfvgbhjmk,l;.'
-    zsxdcfvgbhjmk,l;.'
-    zsxdcfvgbhjmk,l;.'
-    zsxdcfvgbhjmk,l;.'
-    zsxdcfvgbhjmk,l;.'
-    zsxdcfvgbhjmk,l;.'
+
   `
   +'</body>'
   +'</html>';
