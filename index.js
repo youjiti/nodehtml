@@ -7,7 +7,7 @@ http.createServer(function(req, res){
   +'<script type="text/javascript" src="./bootstrap/js/bootstrap.min.js"></script>'
   +'</head>'
   +'<body>'
-  +	'hello world!hello world! 1234'
+  +	'eeeeeee'
   +'</body>'
   +'</html>';
   res.writeHead(200,{'Content-Type' : 'text/html'});
